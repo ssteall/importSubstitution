@@ -29,7 +29,7 @@ struct domesticProduct {
 }
 
 enum Category: String {
-    case medicineDrug = "Лекартсва"
+    case medicineDrug = "Лекартсва - тест"
     case food = "Продукты питания"
     case soft = "Программное обеспечение"
 }
